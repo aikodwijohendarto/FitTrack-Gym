@@ -35,3 +35,7 @@ src/
 - Bootstrap 5.3.3 CSS is now an npm dependency instead of a CDN link. Barlow Condensed
   is still loaded from Google Fonts (Arial fallbacks apply offline).
 - Added dependencies: `react-router-dom` (page navigation) and `bootstrap`.
+
+---
+
+Dikembangkan untuk tugas mata kuliah Pemrograman Web — Bab 6 React Dasar.
